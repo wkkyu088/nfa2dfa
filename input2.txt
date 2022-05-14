@@ -1,0 +1,5 @@
+	d	a	b	e
+->	A	A	.	A,B,D
+	B	C	.	B
+	C	.	C	C,D
+*	D	D	.	D
